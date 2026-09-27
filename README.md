@@ -122,3 +122,8 @@ Neu can mua license, ho tro cai dat, bao loi hoac can ban Pro/Admin, lien he:
 ## Luu y bao mat
 
 Ban public nay la ban User. Ban Admin va cong cu quan ly license khong nen dua len public.
+
+
+---
+
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=file-manager-pro-user) — AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/cong-cu-ai/file-manager-pro/?utm_source=github&utm_medium=readme&utm_campaign=file-manager-pro-user
