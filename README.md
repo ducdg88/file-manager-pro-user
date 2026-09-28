@@ -1,3 +1,5 @@
+**🇻🇳 Tiếng Việt** · [🇬🇧 English](README.en.md)
+
 # File Manager Pro User
 
 
@@ -129,4 +131,4 @@ Ban public nay la ban User. Ban Admin va cong cu quan ly license khong nen dua l
 
 ---
 
-Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=file-manager-pro-user) — AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/cong-cu-ai/file-manager-pro/?utm_source=github&utm_medium=readme&utm_campaign=file-manager-pro-user
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=file-manager-pro-user): AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/cong-cu-ai/file-manager-pro/?utm_source=github&utm_medium=readme&utm_campaign=file-manager-pro-user
