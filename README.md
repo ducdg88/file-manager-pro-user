@@ -5,6 +5,8 @@
 
 **Trỏ vào một thư mục Windows lộn xộn → nhận lại file đã đổi tên, dọn trùng, sắp xếp gọn, không gì bị xóa vĩnh viễn.**
 
+**Point it at a messy Windows folder → get files renamed, deduped and sorted, with nothing permanently deleted.**
+
 File Manager Pro User la ban portable danh cho nguoi dung cuoi de quan ly, sap xep, loc, doi ten, xoa vao Thung Rac va xu ly file trung lap tren Windows.
 
 ## Tai ve va chay
